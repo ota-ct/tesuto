@@ -1,0 +1,3 @@
+[submodule "extlib/tesuto_submodule"]
+	path = extlib/tesuto_submodule
+	url = git@github.com:ota-ct/tesuto_submodule
