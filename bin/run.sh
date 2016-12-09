@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "start!"
+echo "start!!!"
 
 i=1
 while [ 1 ];
